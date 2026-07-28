@@ -21,8 +21,11 @@ Um projeto divertido e funcional para testes com o objetivo de programar um jogo
 - Controle de Versão: GitHub
 
 ---
+## 🛠️ Ambiente de Execução
 
-## 🛠️ Como Executar o Projeto
+Este projeto foi desenvolvido em **Linguagem C** e é compatível com os principais compiladores (GCC/Clang) e ambientes de desenvolvimento:
 
-### Pré-requisitos
-* Um compilador C instalado no seu computador (como o **GCC**, que faz parte do **MinGW** no Windows, ou nativo no Linux/macOS).
+- **VS Code** *(com extensão C/C++ e GCC instalado)*
+- **Code::Blocks**
+- **Dev-C++**
+- **CLion**
